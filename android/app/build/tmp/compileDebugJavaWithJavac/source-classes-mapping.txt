@@ -1,0 +1,14 @@
+com/gofinances/BuildConfig.java
+ com.gofinances.BuildConfig
+com/gofinances/MainActivity.java
+ com.gofinances.MainActivity
+com/gofinances/ReactNativeFlipper.java
+ com.gofinances.ReactNativeFlipper
+ com.gofinances.ReactNativeFlipper$1
+ com.gofinances.ReactNativeFlipper$2
+ com.gofinances.ReactNativeFlipper$2$1
+com/gofinances/MainApplication.java
+ com.gofinances.MainApplication
+ com.gofinances.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
